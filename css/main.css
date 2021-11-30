@@ -1,0 +1,72 @@
+.main-header {
+  background: url(../img/background.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 600px;
+  color: white;
+}
+
+.main-header .showcase {
+  padding-top: 100px;
+}
+
+.active-link {
+  color: #dd32aa;
+  font-weight: bold;
+}
+
+h5{
+  font-family: 'Volkhov', serif;
+}
+h1{font-family: 'Ultra', serif;
+  font-family: 'Volkhov', serif;
+
+}
+.section-developers{
+  background: url(../img/code.jpg) ;
+  background-size: cover;
+  min-height: 180px;
+  background-position: center;
+  border-top: green solid   10px;
+  border-bottom: green solid 10px;
+  position: relative;
+}
+
+.section-podcast {
+  background: url(../img/code.jpg) ;
+  background-size: cover;
+  min-height: 180px;
+  background-position: center;
+  border-top: green solid   10px;
+  border-bottom: green solid 10px;
+  position: relative;
+
+}
+
+.primary-overlay {
+  background: rgba(112, 81, 176, 0.5) ;
+  position: absolute;
+  top: 0;
+  width:100%;
+  height: 100%;
+
+
+}
+.section-podcast a {
+  margin-top: 20px
+}
+.main-header-inner{
+  background: url(../img/background.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 300px;
+  color: white;
+}
+.main-header-inner .showcase{
+  padding-top: 50px;
+}
+
+.btn-extend {
+  display: block;
+  width: 100%
+}
